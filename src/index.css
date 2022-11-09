@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App{
+  height: 100vh;
+}
+
+.hero{
+  display: flex;
+
+}
+
+.liqour,
+.beer,
+.cocktail,
+.starters
+{
+  padding: 10px;
+}
+
+button{
+  width: 5em;
+  height: 3em;
+  display: flex;
+  text-align: center;
+}
+
+.btn{
+  text-align: center;
+  vertical-align: center;
+  margin: 5px;
+  padding: 0;
+  background-color: blueviolet;
+  font-size: 1.5rem;
+}
